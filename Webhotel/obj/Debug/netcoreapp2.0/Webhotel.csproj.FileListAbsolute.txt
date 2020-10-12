@@ -1,0 +1,65 @@
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\New\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.deps.json
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\New\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.runtimeconfig.json
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\New\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.runtimeconfig.dev.json
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\New\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.dll
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\New\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.pdb
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\New\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.csprojAssemblyReference.cache
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\New\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.csproj.CoreCompileInputs.cache
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\New\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\New\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.AssemblyInfoInputs.cache
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\New\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.AssemblyInfo.cs
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\New\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.dll
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\New\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.pdb
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.deps.json
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.runtimeconfig.json
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.runtimeconfig.dev.json
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.dll
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.pdb
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.csprojAssemblyReference.cache
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.csproj.CoreCompileInputs.cache
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.AssemblyInfoInputs.cache
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.AssemblyInfo.cs
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.dll
+C:\Users\Ike Chukwueke\Desktop\2018\Web System Dev Assignment\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.pdb
+D:\Web System Dev Assignment\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.deps.json
+D:\Web System Dev Assignment\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.runtimeconfig.json
+D:\Web System Dev Assignment\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.runtimeconfig.dev.json
+D:\Web System Dev Assignment\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.dll
+D:\Web System Dev Assignment\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.pdb
+D:\Web System Dev Assignment\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.csprojAssemblyReference.cache
+D:\Web System Dev Assignment\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.csproj.CoreCompileInputs.cache
+D:\Web System Dev Assignment\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Web System Dev Assignment\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.AssemblyInfoInputs.cache
+D:\Web System Dev Assignment\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.AssemblyInfo.cs
+D:\Web System Dev Assignment\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.dll
+D:\Web System Dev Assignment\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.pdb
+C:\Users\Oliver\Desktop\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.deps.json
+C:\Users\Oliver\Desktop\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.runtimeconfig.json
+C:\Users\Oliver\Desktop\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.runtimeconfig.dev.json
+C:\Users\Oliver\Desktop\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.dll
+C:\Users\Oliver\Desktop\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.pdb
+C:\Users\Oliver\Desktop\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.csprojAssemblyReference.cache
+C:\Users\Oliver\Desktop\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\Desktop\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Oliver\Desktop\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.AssemblyInfoInputs.cache
+C:\Users\Oliver\Desktop\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.AssemblyInfo.cs
+C:\Users\Oliver\Desktop\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.dll
+C:\Users\Oliver\Desktop\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.pdb
+C:\Users\Angelo\Documents\uni\yr2 sem2\web systems development\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.dll
+C:\Users\Angelo\Documents\uni\yr2 sem2\web systems development\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.pdb
+C:\Users\Angelo\Documents\uni\yr2 sem2\web systems development\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Angelo\Documents\uni\yr2 sem2\web systems development\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Angelo\Documents\uni\yr2 sem2\web systems development\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Angelo\Documents\uni\yr2 sem2\web systems development\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Angelo\Documents\uni\yr2 sem2\web systems development\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.deps.json
+C:\Users\Angelo\Documents\uni\yr2 sem2\web systems development\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.runtimeconfig.json
+C:\Users\Angelo\Documents\uni\yr2 sem2\web systems development\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.runtimeconfig.dev.json
+C:\Users\Angelo\Documents\uni\yr2 sem2\web systems development\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.dll
+C:\Users\Angelo\Documents\uni\yr2 sem2\web systems development\Webhotel\Webhotel\bin\Debug\netcoreapp2.0\Webhotel.pdb
+C:\Users\Angelo\Documents\uni\yr2 sem2\web systems development\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.csprojAssemblyReference.cache
+C:\Users\Angelo\Documents\uni\yr2 sem2\web systems development\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.AssemblyInfoInputs.cache
+C:\Users\Angelo\Documents\uni\yr2 sem2\web systems development\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.AssemblyInfo.cs
+C:\Users\Angelo\Documents\uni\yr2 sem2\web systems development\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Documents\uni\yr2 sem2\web systems development\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Angelo\Documents\uni\yr2 sem2\web systems development\Webhotel\Webhotel\obj\Debug\netcoreapp2.0\Webhotel.genruntimeconfig.cache
